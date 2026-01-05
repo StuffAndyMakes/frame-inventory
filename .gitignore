@@ -1,0 +1,27 @@
+# Xcode
+## User settings
+xcuserdata/
+
+## Build artifacts
+build/
+DerivedData/
+
+## Xcode compatibility and project files
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.moved-aside
+xcuserdata
+
+## Package Manager files
+.swiftpm/xcode/xcuserdata/ # Ignore user data within Swift Package Manager files
+/Pods/ # Uncomment if using CocoaPods
+/Carthage/ # Uncomment if using Carthage
+
+# macOS system files
+.DS_Store
