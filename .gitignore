@@ -4,7 +4,7 @@ xcuserdata/
 
 ## Build artifacts
 build/
-DerivedData/
+/DerivedData/
 
 ## Xcode compatibility and project files
 *.pbxuser
