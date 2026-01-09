@@ -69,10 +69,14 @@ Print a summary/stats on only—it does NOT write the JSON inventory file.
 Copy the selected images to the destination directory you specify in <path>.
 Good for organization, you know.
 
+If the destination directory doesn't exist, it will be created.
+
 ### --move <path>
 
 Move the selected images to the destination directory you specify in <path>.
 Good for organization, you know.
+
+If the destination directory doesn't exist, it will be created.
 
 ### -v or --verbose
 
